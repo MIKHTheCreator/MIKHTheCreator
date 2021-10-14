@@ -3,8 +3,7 @@
 - Know such languges as python, C++(Not so good as you can imagine), R, Octave, Java.
 - 🌱 I’m currently developing my own Spring based project.
 - 💞️ I’m looking to collaborate on serious global project.
-- 📫 How to reach me VK: https://vk.com/bycripthash
-Instagram: https://www.instagram.com/_mishanya_30/
+- 📫 How to reach me Instagram: https://www.instagram.com/_mishanya_30/
 
 <!---
 MIKHTheCreator/MIKHTheCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
